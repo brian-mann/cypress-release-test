@@ -1,6 +1,5 @@
 {
   "requireCleanWorkingDir": false,
   "commitMessage": "release %s",
-  "tagAnnotation": "release %s",
-  "changelogCommand": "echo foo bar baz"
+  "tagAnnotation": "release %s"
 }
