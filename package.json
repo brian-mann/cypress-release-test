@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cypress-io/cypress-release-test/issues"
   },
-  "homepage": "https://github.com/cypress-io/cypress-release-test#readme"
+  "homepage": "https://github.com/cypress-io/cypress-release-test#readme",
+  "devDependencies": {
+    "release-it": "^2.3.1"
+  }
 }
