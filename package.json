@@ -1,9 +1,8 @@
 {
   "name": "cypress-release-test",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "description": "",
   "main": "index.js",
-  "private": true,
   "scripts": {
     "start": "coffee index.coffee",
     "release": "release",

@@ -2,6 +2,9 @@
 
 ## Changelog
 
+#### 0.1.15
+- should have published to npm now
+
 #### 0.1.14
 - foo
 - bar
