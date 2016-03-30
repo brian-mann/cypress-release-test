@@ -2,6 +2,9 @@
 
 ## Changelog
 
+#### 1.0.2
+- added .node-version
+
 #### 1.0.1
 - added node version
 
