@@ -2,6 +2,18 @@
 
 ## Changelog
 
+#### 1.0.3
+- testing changelog commits
+- woohoo!
+
+#### 1.0.3
+- testing changelog commits
+- woohoo!
+
+#### 1.0.3
+- testing changelog commits
+- woohoo!
+
 #### 1.0.2
 - added .node-version
 
