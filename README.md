@@ -2,6 +2,9 @@
 
 ## Changelog
 
+#### 1.0.0
+- bump major
+
 #### 0.2.5
 - custom version
 
