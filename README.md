@@ -2,6 +2,11 @@
 
 ## Changelog
 
+#### 0.1.12
+- foo
+- bar
+- baz
+
 #### 0.1.11
 - should not push to npm now
 - or does it?

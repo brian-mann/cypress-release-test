@@ -1,6 +1,6 @@
 {
   "name": "cypress-release-test",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "description": "",
   "main": "index.js",
   "private": true,
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cypress-io/cypress-release-test.git"
+    "url": "git+https://github.com/brian-mann/cypress-release-test.git"
   },
   "author": "Brian Mann",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cypress-io/cypress-release-test/issues"
+    "url": "https://github.com/brian-mann/cypress-release-test/issues"
   },
-  "homepage": "https://github.com/cypress-io/cypress-release-test#readme",
+  "homepage": "https://github.com/brian-mann/cypress-release-test#readme",
   "devDependencies": {
     "release-it": "^2.3.1"
   },
