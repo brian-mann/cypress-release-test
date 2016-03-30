@@ -2,6 +2,9 @@
 
 ## Changelog
 
+#### 0.1.16
+- npm description
+
 #### 0.1.15
 - should have published to npm now
 
