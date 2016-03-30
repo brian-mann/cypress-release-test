@@ -2,6 +2,9 @@
 
 ## Changelog
 
+#### 0.2.5
+- custom version
+
 #### 0.2.0
 - trying minor bump
 
