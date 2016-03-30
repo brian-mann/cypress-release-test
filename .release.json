@@ -4,8 +4,5 @@
   "github": {
     "release": false,
     "releaseName": "release %s"
-  },
-  "npm": {
-    "publish": true
   }
 }
