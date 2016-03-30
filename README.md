@@ -1,5 +1,7 @@
-## Cypress Release Test
 
-foo bar baz
 
 ## Changelog
+
+#### 0.1.9
+- added cypress-core-releaser
+- hope this works!

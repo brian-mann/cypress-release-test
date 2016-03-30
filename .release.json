@@ -1,10 +1,8 @@
 {
-  "requireCleanWorkingDir": false,
   "commitMessage": "release %s",
   "tagAnnotation": "release %s",
-  "changelogCommand": "echo foo bar baz",
   "github": {
-    "release": true,
+    "release": false,
     "releaseName": "release %s"
   }
 }
