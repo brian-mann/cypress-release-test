@@ -1,7 +1,7 @@
 {
   "name": "cypress-release-test",
   "version": "0.1.15",
-  "description": "",
+  "description": "Testing automated releases",
   "main": "index.js",
   "scripts": {
     "start": "coffee index.coffee",
