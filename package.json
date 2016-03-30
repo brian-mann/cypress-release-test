@@ -1,6 +1,6 @@
 {
   "name": "cypress-release-test",
-  "version": "0.1.16",
+  "version": "0.2.0",
   "description": "Testing automated releases",
   "main": "index.js",
   "scripts": {

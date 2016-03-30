@@ -2,6 +2,9 @@
 
 ## Changelog
 
+#### 0.2.0
+- trying minor bump
+
 #### 0.1.16
 - npm description
 
