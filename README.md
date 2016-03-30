@@ -2,6 +2,10 @@
 
 ## Changelog
 
+#### 0.1.13
+- foo
+- bar
+
 #### 0.1.12
 - foo
 - bar
