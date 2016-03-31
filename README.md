@@ -2,6 +2,9 @@
 
 ## Changelog
 
+#### 1.1.0
+- asdf
+
 #### 1.0.5
 - asdf
 
