@@ -2,6 +2,9 @@
 
 ## Changelog
 
+#### 1.0.4
+- added dist
+
 #### 1.0.3
 - testing changelog commits
 - woohoo!
