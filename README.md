@@ -2,6 +2,9 @@
 
 ## Changelog
 
+#### 1.3.0
+- dist
+
 #### 1.2.0
 - dist
 
