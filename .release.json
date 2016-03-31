@@ -1,6 +1,6 @@
 {
   "src": {
-    "beforeStageCommand": "touch ./dist/foo.md"
+    "beforeStageCommand": "rm -rf dist && mkdir dist && touch ./dist/foo.md"
   },
   "commitMessage": "release %s",
   "tagAnnotation": "release %s",
