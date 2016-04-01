@@ -1,7 +1,4 @@
 {
-  "src": {
-    "beforeStartCommand": "rm -rf dist && mkdir dist && touch ./dist/foo.md"
-  },
   "commitMessage": "release %s",
   "tagAnnotation": "release %s",
   "github": {
