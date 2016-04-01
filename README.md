@@ -2,6 +2,9 @@
 
 ## Changelog
 
+#### 1.4.2
+- random files
+
 #### 1.4.1
 - prepublish
 
